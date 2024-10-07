@@ -1,4 +1,4 @@
-## **terrors**
+## **[terrors](https://terror.moe/terrors.html)**
 - [Aku Ball](https://terror.moe/terrors/aku_ball.html)
 - [Akumii-Kari](https://terror.moe/terrors/akumii-kari.html)
 - [All-Around Helpers](https://terror.moe/terrors/all-around-helpers.html)

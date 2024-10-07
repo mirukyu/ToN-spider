@@ -1,4 +1,4 @@
-## **items**
+## **[items](https://terror.moe/items.html)**
 
 - [Antique Revolver](https://terror.moe/items/antique_revolver.html)
 - [Banana](https://terror.moe/items/banana.html)

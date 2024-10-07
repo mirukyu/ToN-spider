@@ -11,7 +11,7 @@ some monsters/locations/items are no longer in the game.
 - [Round Takeovers](https://terror.moe/game/round_takeovers.html)
 - [Round Types](https://terror.moe/game/round_types.html)
 - [Status Effects](https://terror.moe/game/status_effects.html)
-- [Unbound](https://terror.moe/game/unbound.html)
+- [Unbound](./unbound.md)
 - [Items](./items.md)
 - [Locations](./locations.md)
 - [Terrors](./terrors.md)

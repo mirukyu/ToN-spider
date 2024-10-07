@@ -1,4 +1,4 @@
-## **Locations**
+## **[Locations](https://terror.moe/locations.html)**
 
 - [Altar](https://terror.moe/locations/altar.html)
 - [Ancient](https://terror.moe/locations/ancient.html)
