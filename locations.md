@@ -67,10 +67,4 @@
 - [Vents](https://terror.moe/locations/vents.html)
 - [Wall](https://terror.moe/locations/wall.html)
 - [Warehouse](https://terror.moe/locations/warehouse.html)
-- [???]
-- [???]
-- [???]
-- [???]
-- [???]
-- [???]
-- [???]
+- [???]x7
