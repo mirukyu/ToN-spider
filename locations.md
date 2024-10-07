@@ -1,17 +1,17 @@
 ## **Locations**
 
-## **Locations**
-
 - [Altar](https://terror.moe/locations/altar.html)
 - [Ancient](https://terror.moe/locations/ancient.html)
 - [Astral](https://terror.moe/locations/astral.html)
 - [Backrooms](https://terror.moe/locations/backrooms.html)
 - [Baseplate](https://terror.moe/locations/baseplate.html)
 - [Blackspace](https://terror.moe/locations/blackspace.html)
+- [Black forest](https://terror.moe/locations/black_forest.html)
 - [Car_park](https://terror.moe/locations/car_park.html)
 - [Challenge Cube](https://terror.moe/locations/challenge_cube.html)
 - [Cheese Maze](https://terror.moe/locations/cheese_maze.html)
 - [Construct](https://terror.moe/locations/construct.html)
+- [court](https://terror.moe/locations/court.html)
 - [Desktop](https://terror.moe/locations/desktop.html)
 - [Development](https://terror.moe/locations/development.html)
 - [Dots](https://terror.moe/locations/dots.html)
@@ -35,6 +35,7 @@
 - [Inner Towers](https://terror.moe/locations/inner_towers.html)
 - [Isolation](https://terror.moe/locations/isolation.html)
 - [Iteration_0](https://terror.moe/locations/iteration_0.html)
+- [Its Maze](https://terror.moe/locations/its_maze.html)
 - [Lounge](https://terror.moe/locations/lounge.html)
 - [Luna Hills](https://terror.moe/locations/luna_hills.html)
 - [Mall](https://terror.moe/locations/mall.html)
@@ -44,6 +45,7 @@
 - [Neon Towers_p](https://terror.moe/locations/neon_towers_p.html)
 - [Nexus](https://terror.moe/locations/nexus.html)
 - [Nightlife](https://terror.moe/locations/nightlife.html)
+- [Old Hub](https://terror.moe/locations/hub.html)
 - [Orange](https://terror.moe/locations/orange.html)
 - [Park](https://terror.moe/locations/park.html)
 - [Pizzeria](https://terror.moe/locations/pizzeria.html)
@@ -66,5 +68,6 @@
 - [Tunnels](https://terror.moe/locations/tunnels.html)
 - [Vents](https://terror.moe/locations/vents.html)
 - [Wall](https://terror.moe/locations/wall.html)
+- [Wafflehouse](https://terror.moe/locations/wafflehouse.html)
 - [Warehouse](https://terror.moe/locations/warehouse.html)
-- [???]x7
+- [???]x6
