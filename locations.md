@@ -10,6 +10,7 @@
 - [Car_park](https://terror.moe/locations/car_park.html)
 - [Challenge Cube](https://terror.moe/locations/challenge_cube.html)
 - [Cheese Maze](https://terror.moe/locations/cheese_maze.html)
+- [Colony](https://terror.moe/locations/colony.html)
 - [Construct](https://terror.moe/locations/construct.html)
 - [court](https://terror.moe/locations/court.html)
 - [Desktop](https://terror.moe/locations/desktop.html)
@@ -23,6 +24,7 @@
 - [Experimentation](https://terror.moe/locations/experimentation.html)
 - [Fishbowl](https://terror.moe/locations/fishbowl.html)
 - [Forest](https://terror.moe/locations/forest.html)
+- [Gaol](https://terror.moe/locations/gaol.html)
 - [Garden](https://terror.moe/locations/garden.html)
 - [Harvest](https://terror.moe/locations/harvest.html)
 - [Have](https://terror.moe/locations/have.html)
@@ -70,4 +72,5 @@
 - [Wall](https://terror.moe/locations/wall.html)
 - [Wafflehouse](https://terror.moe/locations/wafflehouse.html)
 - [Warehouse](https://terror.moe/locations/warehouse.html)
-- [???]x6
+- [Garten](https://terror.moe/locations/garten.html)
+- [This Map Does Not Exist](https://terror.moe/locations/this_map_does_not_exist.html)

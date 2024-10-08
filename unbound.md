@@ -1,6 +1,6 @@
 ## **[unbound](https://terror.moe/game/unbound.html) content index**
 
-1.
+1. Guidance & The Booboo's {x2 Guidance, x3 Booboobabydw}
 2.
 3.
 4.
@@ -37,7 +37,7 @@
 35.
 36.
 37.
-38.
+38. something old something new {security, ancient security}
 39.
 40.
 41.
@@ -73,7 +73,7 @@
 71.
 72.
 73.
-74.
+74. it came from bus to nowhere {red bus, mirror, terror of nowhere}
 75.
 76.
 77.
