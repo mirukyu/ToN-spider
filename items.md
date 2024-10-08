@@ -1,5 +1,4 @@
 ## **[items](https://terror.moe/items.html)**
-
 - [Antique Revolver](https://terror.moe/items/antique_revolver.html)
 - [Banana](https://terror.moe/items/banana.html)
 - [Beyond Plush](https://terror.moe/items/beyond_plush.html)
@@ -43,8 +42,8 @@
 - [Paradise Lost](https://terror.moe/items/paradise_lost.html)
 - [Pot of Greed](https://terror.moe/items/pot_of_greed.html)
 - [Psycho Coil](https://terror.moe/items/psycho_coil.html)
-- [Radar](https://terror.moe/items/radar.html)
 - [Radar Coil](https://terror.moe/items/radar_coil.html)
+- [Radar](https://terror.moe/items/radar.html)
 - [Red Medkit](https://terror.moe/items/red_medkit.html)
 - [Redbull](https://terror.moe/items/redbull.html)
 - [Regen Coil](https://terror.moe/items/regen_coil.html)
